@@ -1,0 +1,5 @@
+fastapi
+torch
+melo  # Si es un paquete disponible, si no, usa `git+https://github.com/myshell-ai/MeloTTS.git`
+openvoice  # Añadir este si es un paquete, de lo contrario, usa la URL de GitHub
+uvicorn
